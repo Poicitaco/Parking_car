@@ -10,3 +10,5 @@ Sử dụng phím start sau đó ấn [space] để bắt đầu chơi, sử d�
 # DEMO 
 ![videodemo](https://github.com/user-attachments/assets/b1a6c5c7-272c-417c-87b5-11d9a3b8f4c3)
 
+#Author 
+Hoàng Tiến Đạt
